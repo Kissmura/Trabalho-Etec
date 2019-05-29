@@ -12,7 +12,7 @@ Conteudo Aprendido
 - Marketing Digital
 - Servidores (Windows Serve)
 
-```php
+``` PHP
 <?php
 echo 'Hello Word!';
 ?>
