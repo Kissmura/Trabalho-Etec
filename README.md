@@ -12,7 +12,9 @@ Conteudo Aprendido
 - Marketing Digital
 - Servidores (Windows Serve)
 
-```PHP
+### PHP
+```
+ 
 <?php
 echo 'Hello Word!';
 ?>
@@ -26,7 +28,7 @@ Console.Write("Hello Word");
 Console.Readkey();
 }
 ```
-### js
+### JS
 ```js
 <script>
 alert("Hello Word");
